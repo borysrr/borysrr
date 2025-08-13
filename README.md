@@ -4,7 +4,6 @@
 ## 👨‍💻 Software Development Projects:
 
 - **Unity 3D, C#**
-  .
   [Unity Game Development – Endless Runner](https://github.com/borysrr/Final.git)
 
 - **FitLab**  
@@ -19,9 +18,8 @@
   Created a fully functional e-commerce site with HTML, CSS, and JavaScript, featuring product listings and cart functionality.  
   [View Project](https://github.com/borysrr/Concurrency-Simulator.git)
 
-- **C – Gantt Chart Generator**  
-  Built a program in C to generate Gantt charts for process scheduling simulations.  
-  [View Project](https://github.com/yourusername/gantt-chart)
+- **Unity 3D, C#**  
+  [Unity Game Development – Endless Runner](https://github.com/borysrr/Final.git)
 
 - **Databases & MySQL – Department Vacancies Database**  
   Designed and implemented a MySQL database with queries for managing department vacancy data.  

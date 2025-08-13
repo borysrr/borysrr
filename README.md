@@ -7,13 +7,13 @@
   Programmed a Temple Run–style endless runner in Unity using C#, featuring dynamic obstacle spawning, collision detection, scoring system, and UI/game state management.  
   [View Project](https://github.com/yourusername/unity-endless-runner)
 
-- **Data Structures and Algorithms Practice**  
+- **FitLab**  
   Implemented and tested multiple algorithms and data structures in C++.  
-  [View Project](https://github.com/yourusername/data-structures-algorithms)
+  [View Project](https://github.com/borysrr/FitLab.git)
 
-- **Python – CSV and Pandas**  
+- **Health Plan**  
   Developed Python scripts to process and analyze datasets using the Pandas library.  
-  [View Project](https://github.com/yourusername/python-csv-pandas)
+  [View Project](https://github.com/borysrailean/health_plan_software.git)
 
 - **Web Development – E-commerce Website**  
   Created a fully functional e-commerce site with HTML, CSS, and JavaScript, featuring product listings and cart functionality.  

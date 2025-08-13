@@ -3,12 +3,8 @@
 
 ## 👨‍💻 Software Development Projects:
 
-- **Unity 3D, C#**
-  [Unity Game Development – Endless Runner](https://github.com/borysrr/Final.git)
-
-- **FitLab**  
-  Implemented and tested multiple algorithms and data structures in C++.  
-  [View Project](https://github.com/borysrr/FitLab.git)
+- **PHP, HTML, CSS, MySQL**
+  [E-Commerce System](https://github.com/borysrr/FitLab.git)
 
 - **Health Plan**  
   Developed Python scripts to process and analyze datasets using the Pandas library.  

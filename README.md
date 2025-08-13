@@ -6,9 +6,8 @@
 - **PHP, HTML, CSS, MySQL**  
   [E-Commerce System](https://github.com/borysrr/FitLab.git)
 
-- **   **  
-  Developed Python scripts to process and analyze datasets using the Pandas library.  
-  [View Project](https://github.com/borysrailean/health_plan_software.git)
+- **Java**   
+  [Health Plan Generator](https://github.com/borysrailean/health_plan_software.git)
 
 - **C++, POSIX Threads, ThreadMentor, Linux, Bash, Makefile**  
   [Concurrency Simulator](https://github.com/borysrr/Concurrency-Simulator.git)

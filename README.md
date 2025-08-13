@@ -1,5 +1,5 @@
 # Hi, I’m Borys!
-**Programmer, Computer Science Student**
+[**Programmer • Computer Science Student**](https://www.linkedin.com/in/borys-railean/))
 
 ## 👨‍💻 Software Development Projects:
 

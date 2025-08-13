@@ -17,12 +17,6 @@
 
 ---
 
-## 📜 Certifications
-- Neural Networks and Deep Learning – *deeplearning.ai* – Issued June 2025  
-- Google Crash Course on Python – Issued June 2021  
-
----
-
 ## 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)

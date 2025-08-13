@@ -15,9 +15,9 @@
   Developed Python scripts to process and analyze datasets using the Pandas library.  
   [View Project](https://github.com/borysrailean/health_plan_software.git)
 
-- **Web Development – E-commerce Website**  
+- **Concurrency Simulator**  
   Created a fully functional e-commerce site with HTML, CSS, and JavaScript, featuring product listings and cart functionality.  
-  [View Project](https://github.com/yourusername/ecommerce-website)
+  [View Project](https://github.com/borysrr/Concurrency-Simulator.git)
 
 - **C – Gantt Chart Generator**  
   Built a program in C to generate Gantt charts for process scheduling simulations.  

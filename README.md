@@ -1,4 +1,4 @@
-# Hi, I’m [Your Name]!
+# Hi, I’m Borys!
 **Programmer, Computer Science Student**
 
 ## 👨‍💻 Software Development Projects:

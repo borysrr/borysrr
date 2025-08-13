@@ -3,9 +3,7 @@
 
 ## 👨‍💻 Software Development Projects:
 
-- **Unity – Endless Runner Game**  
-  Programmed a Temple Run–style endless runner in Unity using C#, featuring dynamic obstacle spawning, collision detection, scoring system, and UI/game state management.  
-  [View Project](https://github.com/borysrr/Final.git)
+  [Unity Game Development – Endless Runner](https://github.com/borysrr/Final.git)
 
 - **FitLab**  
   Implemented and tested multiple algorithms and data structures in C++.  

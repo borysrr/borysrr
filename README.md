@@ -16,7 +16,7 @@
   [Unity Game Development – Endless Runner](https://github.com/borysrr/Final.git)
 
 - **CryptoHack Practice**
-  [My CryptoHack Practicing/Solutions](https://github.com/borysrr/CryptoHack_Challanges.git)
+[My CryptoHack Practicing/Solutions](https://github.com/borysrr/CryptoHack_Challanges.git)
 
 ---
 
